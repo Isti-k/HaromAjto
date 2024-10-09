@@ -6,7 +6,7 @@ package ajtogui;
 
 import java.util.Random;
 public class HaromAjtoJatek {
-    private int[] ajtok = {0, 0, 0}; // Három ajtó (0 = kecske, 1 = nyeremény)
+    private int[] ajtok = {0, 0, 0}; 
     private int valasztottAjto = -1;
     private int nyeremenyAjto;
     private int mutatottAjto;
